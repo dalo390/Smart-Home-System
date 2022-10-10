@@ -13,3 +13,6 @@ yarn
  
 ### start:
 yarn start  
+
+make sure webserver.py is running (python webserver.py) in DATABASE folder  
+*server has been shut down*
